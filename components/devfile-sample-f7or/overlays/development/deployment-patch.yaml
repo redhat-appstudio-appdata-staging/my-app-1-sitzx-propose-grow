@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: devfile-sample-f7or
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
